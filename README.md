@@ -1,7 +1,8 @@
 
-# Chatbot de Información sobre Especies en Boyacá
+# Chatbot de Información sobre Especies en Boyacá 🚀
 
 Hola somos Juan Diego Duran Villamil y Juan Camilo Guevara Duran  estudiantes de la universidad unisangil 
+
 
 ## Descripción de nustro proyecto
 Este sistema proporciona información detallada sobre las especies animales de Boyacá mediante un chatbot interactivo. No es solo un CRUD, sino una solución innovadora que permite a los usuarios obtener datos en tiempo real sobre fauna, sus hábitats y características.
@@ -38,6 +39,9 @@ Proporciona un menú interactivo en consola.
 Permite seleccionar opciones para consultar información.
 
 Activa el chatbot para interacción en tiempo real.
-## 🛠 Skills
-Javascript, HTML, PYTHON.
+## 🛠 HABILIDADES
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+ ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+
+![Logo](https://situr.boyaca.gov.co/wp-content/uploads/2024/06/BOYACA-ES-PARA-VIVIRLA-logo-2024.png)
 
