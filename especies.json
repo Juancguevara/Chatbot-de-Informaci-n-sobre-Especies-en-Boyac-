@@ -1,0 +1,17 @@
+{
+    "Oso de anteojos": {
+      "categoria": "Mamífero",
+      "zona": "Santuario de Fauna y Flora Guanentá Alto Río Fonce",
+      "descripcion": "El único oso nativo de América del Sur, habita en los Andes y es clave para el ecosistema."
+    },
+    "Cóndor de los Andes": {
+      "categoria": "Ave",
+      "zona": "Páramo de Pisba y Sierra Nevada del Cocuy",
+      "descripcion": "Ave emblemática de los Andes, con una envergadura de hasta 3 metros."
+    },
+    "Venado cola blanca": {
+      "categoria": "Mamífero",
+      "zona": "Parque Nacional Natural El Cocuy",
+      "descripcion": "Mamífero herbívoro que habita en bosques y praderas de montaña."
+    }
+  }
