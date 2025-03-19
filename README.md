@@ -1,5 +1,5 @@
 
-# Chatbot de Información sobre Especies en Boyacá 🚀
+# Chatbot de Información sobre Especies en Boyacá 
 
 Hola somos Juan Diego Duran Villamil y Juan Camilo Guevara Duran  estudiantes de la universidad unisangil 
 
